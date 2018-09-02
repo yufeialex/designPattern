@@ -1,4 +1,4 @@
-package com.ibeifeng.strategy;
+package com.petrichor.strategy;
 
 public class MainClass {
 	public static void main(String[] args) {

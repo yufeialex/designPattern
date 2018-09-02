@@ -1,4 +1,4 @@
-package com.ibeifeng.strategy;
+package com.petrichor.strategy;
 
 public class StrategyB implements Strategy {
 
