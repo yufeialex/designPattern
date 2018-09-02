@@ -1,4 +1,4 @@
-package com.petrichor.good1;
+package com.petrichor.cor.good1;
 
 public abstract class CarHandler {
     // 访问控制

@@ -1,4 +1,4 @@
-package com.petrichor.good2;
+package com.petrichor.cor.good2;
 
 /**
  * Created by Administrator on 2018/9/2.

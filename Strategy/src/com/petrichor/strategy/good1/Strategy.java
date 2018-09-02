@@ -1,4 +1,4 @@
-package com.petrichor.strategy;
+package com.petrichor.strategy.good1;
 
 public interface Strategy {
 

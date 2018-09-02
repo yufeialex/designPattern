@@ -1,4 +1,4 @@
-package com.petrichor.bad1;
+package com.petrichor.cor.bad1;
 
 public abstract class CarHandler {
 	

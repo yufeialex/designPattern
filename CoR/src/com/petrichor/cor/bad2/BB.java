@@ -1,4 +1,4 @@
-package com.petrichor.bad2;
+package com.petrichor.cor.bad2;
 
 /**
  * Created by Administrator on 2018/9/2.

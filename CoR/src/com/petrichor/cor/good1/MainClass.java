@@ -1,4 +1,4 @@
-package com.petrichor.good1;
+package com.petrichor.cor.good1;
 
 /**
  * 职责链未必每一个环节都会处理目标，可能只有某一个处理（排他）；也可能有某几个共同处理（合作），特例就是全都处理。

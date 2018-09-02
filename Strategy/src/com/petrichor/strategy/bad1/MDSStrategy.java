@@ -1,4 +1,4 @@
-package com.petrichor.bad1;
+package com.petrichor.strategy.bad1;
 
 public class MDSStrategy implements Strategy{
 

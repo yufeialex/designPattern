@@ -1,4 +1,4 @@
-package com.petrichor.bad1;
+package com.petrichor.cor.bad1;
 
 public class MainClass {
 	public static void main(String[] args) {
