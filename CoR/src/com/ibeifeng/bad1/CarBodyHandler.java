@@ -1,3 +1,4 @@
+package com.ibeifeng.bad1;
 
 public class CarBodyHandler extends CarHandler {
 

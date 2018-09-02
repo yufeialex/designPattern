@@ -1,12 +1,9 @@
-package com.ibeifeng.ex2;
+package com.ibeifeng.bad1;
 
 public class CarTailHandler extends CarHandler{
 
 	public void HandlerCar() {
 		System.out.println("组装车尾");
-		if(this.carHandler != null) {
-			this.carHandler.HandlerCar();
-		}
 	}
 
 }

@@ -1,4 +1,4 @@
-package com.ibeifeng.ex2;
+package com.ibeifeng.good1;
 
 public class NoState extends State {
 
