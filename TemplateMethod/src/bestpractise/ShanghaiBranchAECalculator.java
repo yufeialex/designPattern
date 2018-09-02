@@ -2,6 +2,16 @@ package bestpractise;
 
 public class ShanghaiBranchAECalculator extends AECalculator {
 
+    private boolean flag = false;
+
+    public void setFlag(boolean shouldTax){
+        flag = shouldTax;
+    }
+
+    @Override
+    protected boolean shouldTax() {
+        return this.flag;
+    }
 
 	@Override
 	public void calculateDepartment() {
