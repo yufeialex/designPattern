@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<config>
+    <className>com.petrichor.strategy.good2.StudentDiscount</className>
+    <simulation-className>com.petrichor.strategy.good3.AirPlane</simulation-className>
+</config>
